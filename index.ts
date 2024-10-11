@@ -8,7 +8,7 @@ const app: Application = express();
 const port = process.env.PORT || 6000;
 
 app.get('/', (req: Request, res: Response) => {
-    res.send('Welcome to Express & TypeScript Server');
+    res.send('Welcome to Anonymous Chat Bot!');
 });
 
 app.listen(port, async () => {
