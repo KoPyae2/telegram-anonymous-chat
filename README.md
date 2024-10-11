@@ -15,7 +15,6 @@ An Anonymous Chat Bot for Telegram that allows users to find chat partners witho
 - Node.js (>=14.x)
 - npm (Node package manager)
 - Telegram Bot Token
-- MongoDB (for storing chat sessions)
 
 ## Environment Variables
 
